@@ -1,0 +1,2 @@
+The signals were selected at the Oz channel of the EEG data collected in a single-modality EEG experiment from one subject in two seperate sessions (eyes-open and eyes-closed). Each session lasted for slightly more than 15 mins. 
+Except for re-referencing (average reference), no addtional processing was performed. 
